@@ -1,5 +1,5 @@
-beaker-centos-docker
-====================
+beaker-centos
+=============
 
 This container is as close to the base 
 [CentOS](https://index.docker.io/_/centos/) repository as possible, 
